@@ -39,7 +39,7 @@ Dapper was originally developed for and by Stack Overflow, but is F/OSS. Sponsor
 A huge thanks to everyone (individuals or organisations) who have sponsored Dapper, but a massive thanks in particular to:
 
 - [AWS](https://github.com/aws) who sponsored Dapper from Oct 2023 via the [.NET on AWS Open Source Software Fund](https://github.com/aws/dotnet-foss)
-- [Dapper Plus](https://dapper-plus.net/) is a major sponsor and is proud to contribute to the development of Dapper
+- [Dapper Plus](https://dapper-plus.net/) is a major sponsor and is proud to contribute to the development of Dapper (from 2024 onwards)
 
 <kbd>[<img src="https://github.com/JonathanMagnan/Dapper/blob/main/tests/dapper-sponsor.png?raw=true">](https://dapper-plus.net/)</kbd>
 
