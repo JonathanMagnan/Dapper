@@ -41,7 +41,7 @@ A huge thanks to everyone (individuals or organisations) who have sponsored Dapp
 - [AWS](https://github.com/aws) who sponsored Dapper from Oct 2023 via the [.NET on AWS Open Source Software Fund](https://github.com/aws/dotnet-foss)
 - [Dapper Plus](https://dapper-plus.net/) is a major sponsor and is proud to contribute to the development of Dapper (from 2024 onwards)
 
-<kbd>[<img src="https://github.com/JonathanMagnan/Dapper/blob/main/tests/dapper-sponsor.png?raw=true">](https://dapper-plus.net/)</kbd>
+[<img src="https://github.com/JonathanMagnan/Dapper/blob/main/tests/dapper-sponsor-2.png?raw=true">](https://dapper-plus.net/)
 
 Features
 --------
